@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms" xmlns:transformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations" x:Class="testApp.MainPage">
+    <StackLayout>
+        <ffimageloading:CachedImage HorizontalOptions="Center" VerticalOptions="Center"
+			WidthRequest="300" HeightRequest="300"
+			DownsampleToViewSize="true"
+			Source = "http://loremflickr.com/600/600/nature?filename=simple.jpg"
+									CacheType="All"  Margin="100">
+			<ffimageloading:CachedImage.Transformations>
+				<transformations:CircleTransformation/>
+			</ffimageloading:CachedImage.Transformations>
+		</ffimageloading:CachedImage>
+    </StackLayout>
+</ContentPage> 
