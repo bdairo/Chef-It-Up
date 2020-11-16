@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{70393906-A1CD-443F-9531-2F0567F6A87E}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="testApp/Pages/MyAccountPage.xaml.cs">
+    <Files>
+      <File FileName="testApp/Pages/DetailedPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="testApp/Pages/DetailedPage.xaml" Line="7" Column="22" />
+      <File FileName="testApp/Pages/MyAccountPage.xaml.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -10,7 +15,9 @@
                 <Node name="DetailedPage.xaml" expanded="True" />
                 <Node name="HomePage.xaml" expanded="True" />
                 <Node name="LoginPage.xaml" expanded="True" />
-                <Node name="MyAccountPage.xaml" expanded="True" />
+                <Node name="MyAccountPage.xaml" expanded="True">
+                  <Node name="MyAccountPage.xaml.cs" selected="True" />
+                </Node>
                 <Node name="RecipePage.xaml" expanded="True" />
                 <Node name="SignupPage.xaml" expanded="True" />
               </Node>
