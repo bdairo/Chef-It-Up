@@ -1,41 +1,51 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aliengurung/Desktop/testApp/testApp.Android/testApp.Android.csproj": {}
+    "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.Android\\testApp.Android.csproj": {}
   },
   "projects": {
-    "/Users/aliengurung/Desktop/testApp/testApp.Android/testApp.Android.csproj": {
+    "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.Android\\testApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aliengurung/Desktop/testApp/testApp.Android/testApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.Android\\testApp.Android.csproj",
         "projectName": "testApp.Android",
-        "projectPath": "/Users/aliengurung/Desktop/testApp/testApp.Android/testApp.Android.csproj",
-        "packagesPath": "/Users/aliengurung/.nuget/packages/",
-        "outputPath": "/Users/aliengurung/Desktop/testApp/testApp.Android/obj/",
+        "projectPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.Android\\testApp.Android.csproj",
+        "packagesPath": "C:\\Users\\dairo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/aliengurung/.config/NuGet/NuGet.Config"
+          "C:\\Users\\dairo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "monoandroid90"
+          "monoandroid10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "monoandroid90": {
+          "monoandroid10.0": {
             "projectReferences": {
-              "/Users/aliengurung/Desktop/testApp/testApp/testApp.csproj": {
-                "projectPath": "/Users/aliengurung/Desktop/testApp/testApp/testApp.csproj"
+              "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj": {
+                "projectPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj"
               }
             }
           }
         }
       },
       "frameworks": {
-        "monoandroid90": {
+        "monoandroid10.0": {
           "dependencies": {
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
             "Xam.Plugin.ImageArray": {
               "target": "Package",
               "version": "[1.0.0, )"
@@ -58,28 +68,34 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.6.0.1141, )"
+              "version": "[4.8.0.1687, )"
             }
           }
         }
       }
     },
-    "/Users/aliengurung/Desktop/testApp/testApp/testApp.csproj": {
+    "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aliengurung/Desktop/testApp/testApp/testApp.csproj",
+        "projectUniqueName": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj",
         "projectName": "testApp",
-        "projectPath": "/Users/aliengurung/Desktop/testApp/testApp/testApp.csproj",
-        "packagesPath": "/Users/aliengurung/.nuget/packages/",
-        "outputPath": "/Users/aliengurung/Desktop/testApp/testApp/obj/",
+        "projectPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj",
+        "packagesPath": "C:\\Users\\dairo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/aliengurung/.config/NuGet/NuGet.Config"
+          "C:\\Users\\dairo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -128,7 +144,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.6.0.1141, )"
+              "version": "[4.8.0.1687, )"
             },
             "YoutubeExplode": {
               "target": "Package",
@@ -145,7 +161,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
