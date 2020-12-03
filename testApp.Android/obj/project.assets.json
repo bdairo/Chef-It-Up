@@ -2773,11 +2773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.Android\\testApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp.Android\\testApp.Android.csproj",
       "projectName": "testApp.Android",
-      "projectPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.Android\\testApp.Android.csproj",
+      "projectPath": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp.Android\\testApp.Android.csproj",
       "packagesPath": "C:\\Users\\dairo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2798,8 +2798,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj": {
-              "projectPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj"
+            "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp\\testApp.csproj": {
+              "projectPath": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp\\testApp.csproj"
             }
           }
         }

@@ -1,0 +1,2 @@
+C:\Users\dairo\source\repos\Chef_It_Up\UITest\obj\Debug\UITest.csprojAssemblyReference.cache
+C:\Users\dairo\source\repos\Chef_It_Up\UITest\obj\Debug\UITest.csproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67NPNT9m2FnodXHCm9B1EfSZXbji+/nvESGy78Ju4s0SV+v8M1gd7PZ2YWgc2Qv219HdLMh/QsWWSZytYE9sow==",
+  "dgSpecHash": "xoaKbfH/glmUsQUA6hDxdgmtZQwjBE+mZz5mTVJdVd+kC3Rmmr/GMYPFhnAiCkzxSEtS4bvsPw/ERt+LbG6izw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj",
+  "projectFilePath": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp\\testApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dairo\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
     "C:\\Users\\dairo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

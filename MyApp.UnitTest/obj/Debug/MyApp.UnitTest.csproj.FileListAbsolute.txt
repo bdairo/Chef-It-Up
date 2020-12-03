@@ -1,0 +1,16 @@
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\MyApp.UnitTest.dll
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\MyApp.UnitTest.pdb
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\testApp.dll
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\testApp.pdb
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\obj\Debug\MyApp.UnitTest.csprojAssemblyReference.cache
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\obj\Debug\MyApp.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\obj\Debug\MyApp.UnitTest.csproj.CopyComplete
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\obj\Debug\MyApp.UnitTest.dll
+C:\Users\dairo\source\repos\Chef_It_Up\MyApp.UnitTest\obj\Debug\MyApp.UnitTest.pdb

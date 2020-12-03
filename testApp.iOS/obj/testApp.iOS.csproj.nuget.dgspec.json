@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.iOS\\testApp.iOS.csproj": {}
+    "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp.iOS\\testApp.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.iOS\\testApp.iOS.csproj": {
+    "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp.iOS\\testApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.iOS\\testApp.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp.iOS\\testApp.iOS.csproj",
         "projectName": "testApp.iOS",
-        "projectPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.iOS\\testApp.iOS.csproj",
+        "projectPath": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp.iOS\\testApp.iOS.csproj",
         "packagesPath": "C:\\Users\\dairo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp.iOS\\obj\\",
+        "outputPath": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj": {
-                "projectPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj"
+              "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp\\testApp.csproj": {
+                "projectPath": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp\\testApp.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj": {
+    "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp\\testApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj",
+        "projectUniqueName": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp\\testApp.csproj",
         "projectName": "testApp",
-        "projectPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\testApp.csproj",
+        "projectPath": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp\\testApp.csproj",
         "packagesPath": "C:\\Users\\dairo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dairo\\source\\repos\\Chef_It_Up\\testApp\\obj\\",
+        "outputPath": "C:\\Users\\dairo\\Source\\Repos\\Chef_It_Up\\testApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
