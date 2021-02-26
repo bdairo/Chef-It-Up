@@ -1,4 +1,4 @@
-# Chef_It_Up
+# Chef-It-Up
 A recipe search based Mobile app developed using Xamarin forms and MSSQL database.
 
 # Info
